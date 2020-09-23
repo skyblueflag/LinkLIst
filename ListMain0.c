@@ -2,7 +2,7 @@
 #include<stdlib.h>
 #include"List0.h"
 
-int mian(void){
+int main(void){
     table t1 = InitTable(t1);
     int a, b;
     for(int i = 1;i < Size;i++){
